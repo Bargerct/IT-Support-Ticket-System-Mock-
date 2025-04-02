@@ -23,8 +23,8 @@ A hands-on project simulating a real IT help desk system, built using Trello and
 <h2>Project Walk-Through:</h2>
 
 <p align="center">
-Signed-Up and Created a Board on Trello (IT Support Ticket System Board): <br/>
-<img src="https://i.imgur.com/ZE4NRN0.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+Created IT Support Ticket System Board on Trello: <br/>
+<img src="TrelloBoard.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
