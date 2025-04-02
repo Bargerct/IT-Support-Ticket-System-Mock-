@@ -24,34 +24,33 @@ A hands-on project simulating a real IT help desk system, built using Trello and
 
 <p align="center">
 Created IT Support Ticket System Board on Trello: <br/>
+ 
 <img src="TrelloBoard.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Created Lists simulating Completion Stage and Cards Simulating Support Tickets:  <br/>
+Created Lists Simulating Completion Stage and Cards Simulating Support Tickets:  <br/>
+ 
 <img src="ListsandCards.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Made Simulation Ticket(VPN Issue) and Placed it in Unassigned List: <br/>
-<img src="NewVPN.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+Made Simulation Ticket(VPN Issue): <br/>
+ 
 <img src="DialogueStart.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+Placed it in UNASSIGNED List: <br/>
+ 
+<img src="NewVPN.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Opened Ticket and Started Dialogue with Employee:  <br/>
+Opened Ticket and Moved it to IN PROGRESS: <br/>
 <img src="InProgressVPN.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+Started Dialogue with Employee: <br/>
 <img src="DialogueInProgress.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Completed Dialogue with Employee and Moved Ticket to Resolved:  <br/>
+Fixed Issue and Completed Dialogue with Employee: <br/>
 <img src="DialogueComplete.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-<img src="ResolvedVPN.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Moved Ticket to RESOLVED:  <br/>
+<img src="VPNTrelloResolved.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
