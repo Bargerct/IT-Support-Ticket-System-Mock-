@@ -66,6 +66,14 @@ Moved Ticket to RESOLVED:  <br/>
 Set up a SLA Tracking Sheet on Excel to Keep Track of Tickets:<br/>
 <br />
 <img src="SLA_TrackingSpreadsheet.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+  
+ <h2>🧠 What I Learned:</h2>
+ 
+- <b>How to simulate real-world IT support workflows</b>
+- <b>SLA calculation and reporting</b>
+- <b>Clear documentation and technical communication</b>
+- <b>Applying ITIL concepts (incidents, priorities, and escalation)</b>
+  
 </p>
 
 <!--
