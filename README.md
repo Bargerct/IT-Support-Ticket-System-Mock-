@@ -27,8 +27,8 @@ Created IT Support Ticket System Board on Trello: <br/>
 <img src="TrelloBoard.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Created Lists simulating Completion Stage and Cards Simulating Support Tickets:  <br/>
+<img src="ListsandCards.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
