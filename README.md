@@ -62,9 +62,10 @@ Moved Ticket to RESOLVED:  <br/>
  <br />
 <img src="VPNTrelloResolved.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
  <h2>📊 SLA Tracker (Excel):</h2>
-<br/>
+ <p align="center">
+Set up a SLA Tracking Sheet on Excel to Keep Track of Tickets:<br/>
 <br />
-<img src="VPNTrelloResolved.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="SLA_TrackingSpreadsheet.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
