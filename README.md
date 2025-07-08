@@ -1,24 +1,27 @@
-<h1>IT Support Ticket System (Mock)</h1>
+# 🖥️ IT Support SLA Tracker
 
+A hands-on IT support project that simulates a real-world helpdesk environment. This tracker uses Python to automate SLA monitoring and Excel to visualize ticket trends and performance.
 
-<h2>Description</h2>
-A hands-on project simulating a real IT help desk system, built using Trello and Excel. This project showcases workflow management, SLA tracking, and ITIL-based ticket handling — no internship required.
+### 🔧 What it does
+- Reads ticket data from a CSV
+- Calculates how many days each ticket has been open
+- Flags tickets that violate the SLA (open > 3 days)
+- Outputs a list of overdue tickets
+- Generates a clean Excel dashboard with pivot tables & charts to show:
+  - Ticket priority breakdown
+  - Technician workload
+  - SLA performance (overdue vs on-time)
 
-<br />
+### 💡 Why I built this
+To practice real IT operations work — including automation, data handling, and reporting — while creating a project I can show on my resume and GitHub. It blends IT support concepts, scripting, and business analytics.
 
+### 🛠️ Tech used
+- Python (pandas, datetime)
+- Excel (pivot tables, conditional formatting)
+- VS Code + terminal
 
-<h2>🔧 Tools Used</h2>
+### 📁 Project structure
 
-- <b>Trello: Ticket management & workflow simulation</b> 
-- <b>Excel: SLA performance tracker with automated metrics</b>
-
-<h2>✅ Features </h2>
-
-- <b>🧾 Custom ticket board with stages: New, In Progress, Resolved</b>
-- <b>🧍 Includes user info, priorities, device types, and SLA timelines</b>
-- <b>🛠️ End-to-end troubleshooting example (VPN issue)</b>
-- <b>📊 Excel-based SLA tracking with time-to-resolution formulas</b>
-- <b>🎯 Simulated ITIL workflow: triage → troubleshoot → escalate → close</b>
 
 <h2>Project Walk-Through:</h2>
 
