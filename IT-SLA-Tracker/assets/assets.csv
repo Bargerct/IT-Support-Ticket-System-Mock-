@@ -1,0 +1,22 @@
+AssetID,AssetName,AssetType,AssignedTo
+A001,Dell Latitude 7420 Laptop,Laptop,John Doe
+A002,HP EliteDesk 800 G6 Desktop,Desktop,Jane Smith
+A003,Apple iPhone 12,Mobile,John Doe
+A004,Dell 24-inch Monitor,Monitor,Unassigned
+A005,Cisco SG350 Switch,Networking,Server Room
+A006,Polycom Desk Phone,Phone,Jane Smith
+A007,Lenovo ThinkPad T14,Laptop,Michael Scott
+A008,HP ProDesk 400 G7,Desktop,Dwight Schrute
+A009,Apple iPhone 13,Mobile,Pam Beesly
+A010,ViewSonic 27-inch Monitor,Monitor,Jim Halpert
+A011,Logitech Conference Cam,Video,Conference Room A
+A012,Polycom SoundStation,Phone,Conference Room B
+A013,Canon MF743Cdw Printer,Printer,Reception
+A014,Dell XPS 15,Laptop,Ryan Howard
+A015,Microsoft Surface Pro,Tablet,Kelly Kapoor
+A016,TP-Link Smart Switch,Networking,Server Rack 2
+A017,Samsung Galaxy S21,Mobile,Stanley Hudson
+A018,LG UltraFine Monitor,Monitor,Oscar Martinez
+A019,Cisco Meraki Firewall,Networking,Data Center
+A020,Logitech MX Keys,Peripheral,Angela Martin
+A021,Plantronics Headset,Audio,Customer Support

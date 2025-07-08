@@ -1,0 +1,21 @@
+TicketID,Title,Priority,AssignedTo,CreatedDate
+T001,Cannot login to VPN,High,Alice,7/1/2025
+T002,Email not syncing,Low,Bob,7/2/2025
+T003,Laptop blue screen,Medium,Charlie,7/3/2025
+T004,Software installation request,High,Bob,7/5/2025
+T005,Phone line issue,Low,Charlie,7/6/2025
+T006,Password reset,Medium,Alice,7/7/2025
+T007,Network printer offline,Medium,Alice,7/4/2025
+T008,Teams not opening,High,Bob,7/2/2025
+T009,Update antivirus,Low,Charlie,7/6/2025
+T010,Mouse not working,Low,Bob,7/7/2025
+T011,New user account request,Medium,Alice,7/3/2025
+T012,File share access issue,High,Charlie,7/1/2025
+T013,VPN drops connection,Medium,Bob,7/5/2025
+T014,Request new keyboard,Low,Alice,7/7/2025
+T015,WiFi unstable,High,Charlie,7/4/2025
+T016,Install Visio,Medium,Bob,7/2/2025
+T017,Computer very slow,Low,Alice,7/6/2025
+T018,Audio not working,Medium,Charlie,7/5/2025
+T019,Lost files recovery,High,Bob,7/1/2025
+T020,Monitor flickering,Low,Alice,7/7/2025
